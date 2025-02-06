@@ -90,7 +90,7 @@ Follow these steps to deploy the project on your local machine:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Tanisha1015/Web3_DAPP/edit/main/README.md
+git clone https://github.com/Tanisha1015/Web3_DAPP
 ```
 
 
