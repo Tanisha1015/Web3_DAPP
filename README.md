@@ -90,7 +90,7 @@ Follow these steps to deploy the project on your local machine:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/musk1n/webss
+git clone https://github.com/Tanisha1015/Web3_DAPP/edit/main/README.md
 ```
 
 
@@ -99,7 +99,7 @@ git clone https://github.com/musk1n/webss
 Navigate to the project directory and install required modules:
 
 ```bash
-cd webss
+cd Web3_DAPP
 npm install
 ```
 
